@@ -1,5 +1,6 @@
 Voice Chatbot Demo for Drivers' tablet running on Android OS (Termux Terminal for Demo Version).
-<video width="640" height="360" controls>
-  <source src="https://youtu.be/pRcBc8oWdIs" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+
+
+[![Voice Chat Android](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/pRcBc8oWdIs))
